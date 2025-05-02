@@ -12,7 +12,7 @@ public class AdvancedPrimitiveTypes {
 	char c='a';
 	short s=1024;;
 	int result=b+c+s;
-	System.out.println("result of automatic typepromotion:"+result);
+	System.out.println("result of automatic typepromotion:"+result);//gfdhtr
 	}
 
 }
