@@ -6,7 +6,7 @@ public class AdvancedPrimitiveTypes {
 	long l=(long)d;
 	int i=(int)l;
 	System.out.println("double value:"+d);
-	System.out.println("long value after casting:"+l);
+	System.out.println("long value after casting:"+l);//print
 	System.out.println("float value after casting:"+i);
 	byte b=42;
 	char c='a';
